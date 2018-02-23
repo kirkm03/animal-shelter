@@ -1,0 +1,37 @@
+.column {
+  width: 250px;
+  float: left;
+  margin: 30px;
+  color: maroon;
+}
+.column p {
+  font-size: 14px;
+}
+img {
+  align-items: center;
+}
+body {
+  font-family: sans-serif;
+  background: url(cartoon.jpeg);
+}
+.note {
+  text-align: left;
+  margin-top: 500px;
+}
+.credit {
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.Good {
+  color: white;
+}
+.Evil {
+  color: red;
+}
